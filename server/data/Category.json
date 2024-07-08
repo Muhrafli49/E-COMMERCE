@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1, 
+        "image" : "https://via.placeholder.com/200?text=SKINCARE",
+        "description" : "SKIN CARE"
+    },
+    {
+        "id" : 2, 
+        "image" : "https://via.placeholder.com/200?text=SMARTPHONE",
+        "description" : "SMARTPHONE"
+    },
+    {
+        "id" : 3, 
+        "image" : "https://via.placeholder.com/200?text=COMPUTER",
+        "description" : "COMPUTER"
+    },
+    {
+        "id" : 4, 
+        "image" : "https://via.placeholder.com/200?text=FASHION",
+        "description" : "FASHION"
+    }, 
+    {
+        "id" : 5, 
+        "image" : "https://via.placeholder.com/200?text=SHOES",
+        "description" : "SHOES"
+    }, 
+    {
+        "id" : 6, 
+        "image" : "https://via.placeholder.com/200?text=ELECTRONICS",
+        "description" : "ELECTRONICS"
+    }
+]
